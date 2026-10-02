@@ -1,0 +1,6 @@
+1) Repo GitHub PUBLIC nomme exactement : puissancefootballabidjan.github.io
+2) Envoyer index.html, manifest.json, sw.js, les 3 icones et .nojekyll a la RACINE.
+3) Creer .well-known/assetlinks.json (Add file > Create new file, taper le chemin avec /).
+4) Remplacer COLLE_ICI_LE_SHA256_DE_PWABUILDER par l'empreinte SHA-256 de PWABuilder.
+5) Settings > Pages : branche main, dossier / (root).
+6) Verifier : https://puissancefootballabidjan.github.io/.well-known/assetlinks.json
